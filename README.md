@@ -41,4 +41,4 @@ I’m constantly learning and improving—especially around modern development w
 
 ## 📫 Contact
 **Email:** mishraaditi1703@gmail.com  
-**LinkedIn:** linkedin.com/in/aditi-mishra1703
+**LinkedIn:** https://www.linkedin.com/in/aditi-mishra1703/
