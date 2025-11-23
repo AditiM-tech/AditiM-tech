@@ -32,6 +32,16 @@ I’m constantly learning and improving—especially around modern development w
 
 ---
 
+## 💼 Internship Experience
+**Software Engineering Intern – CSCS India (Remote)**  
+Developed a geofencing-based attendance and leave management system with secure **role-based access**, real-time activity tracking, and responsive dashboards.  
+Worked on refining backend logic, improving validation flows, and ensuring accurate geolocation-based verification.  
+Contributed to front-end usability enhancements and supported the deployment of the system on the official platform.
+
+🔗 Live Project: https://attendance.cscsindia.co/signup.php
+
+---
+
 ## 🎯 What I’m Improving
 - Better architectural patterns for backend systems  
 - Cleaner and more reusable UI components  
